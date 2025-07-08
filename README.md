@@ -1,2 +1,2 @@
-# Web-Scraping-Project-Analysis-of-price-of-TV-s-from-flipkart
+# Web-Scraping Project:Analysis ofprice of E-commerce product(TV)
 I have analyzed prices of the TV's from flipkart and gave insights on that.
